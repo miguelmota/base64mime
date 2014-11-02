@@ -1,6 +1,6 @@
 # base64-mime
 
-Extract the MIME type of a base64 string.
+Extract the MIME type from a base64 string.
 
 # Install
 

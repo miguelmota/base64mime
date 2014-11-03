@@ -1,6 +1,6 @@
 {
   "name": "base64-mime",
-  "main": "index.js",
+  "main": "base64-mime.js",
   "version": "0.0.1",
   "authors": [
     "Miguel Mota <miguelmota2@gmail.com>"

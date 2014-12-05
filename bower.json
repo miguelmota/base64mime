@@ -1,5 +1,5 @@
 {
-  "name": "base64-mime",
+  "name": "base64mime",
   "main": "base64-mime.js",
   "version": "0.0.2",
   "authors": [

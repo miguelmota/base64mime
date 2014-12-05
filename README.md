@@ -9,7 +9,7 @@ npm install base64mime
 ```
 
 ```
-bower install base64-mime
+bower install base64mime
 ```
 
 # Usage

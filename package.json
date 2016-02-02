@@ -1,6 +1,6 @@
 {
   "name": "base64mime",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Extract the mime type from a base64 string",
   "main": "base64-mime.js",
   "directories": {

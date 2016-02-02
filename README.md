@@ -20,6 +20,7 @@ var base64Mime = require('base64mime');
 var encoded = 'data:image/png;base64,iVBORw0KGgoAA...5CYII=';
 
 console.log(base64Mime(encoded)); // "image/png"
+console.log(base64Mime('garbage')); // null
 ```
 
 # License
